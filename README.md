@@ -1,2 +1,2 @@
-# 21-days-challange
+# 21-Days-Challange
 JavaScript 21 days challenge
